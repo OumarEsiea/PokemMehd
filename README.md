@@ -48,8 +48,8 @@ Cela ouvrira l'application dans votre navigateur par défaut.
 - Une fois l'application lancée, vous verrez une liste de Pokémon affichée.
 - Utilisez les boutons "Précédent" et "Suivant" pour naviguer entre les listes de Pokémon.
 - Cliquez sur un Pokémon pour afficher ses détails dans la section de description.
-- Dans la section de description, vous trouverez le nom du Pokémon, sa liste d'attaques et un bouton "Play Pikachu Sound" pour déclencher la lecture d'une note audio spécifique.
-- Pour les Pokémon Pikachu et Bulbasaur, une vibration se produira à la fin de l'attaque.
+- Dans la section de description, vous trouverez le nom du Pokémon, sa liste d'attaques et ses stats.
+- Pour les Pokémon Pikachu et Bulbasaur, une vibration et le son de l'attaque se produira lorsque l'on clique sur l'image du pokemon.
 
 ## Licence
 
