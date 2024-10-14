@@ -144,10 +144,13 @@ h1 {
 
 .pokemon-details p {
     margin-bottom: 10px;
+    display: grid;
+    grid-template-columns: 2;
+    grid-template-rows: 2;
 }
 
 .pokemon-details img {
-    max-width: 100%;
+    max-width: 50%;
 }
 
 .pagination {

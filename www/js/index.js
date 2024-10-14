@@ -49,7 +49,7 @@ function onDeviceReady() {
                             data.results.forEach(pokemon => {
                                 fetch(pokemon.url)
                                     .then(response => response.json())
-                                    .then(pokemonData => {
+                                    .then((pokemonData) => {
                                         const abilities = pokemonData.abilities.map(ability => ability.ability.name);
                                         const spriteUrl = pokemonData.sprites.front_default;
                                         const spriteArtworkUrl = pokemonData.sprites.other['official-artwork'].front_default;
